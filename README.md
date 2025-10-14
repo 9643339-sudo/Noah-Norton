@@ -8,7 +8,7 @@
 
 Desscription
 
-*[Windows EXE]()
+*[Windows EXE](https://github.com/9643339-sudo/Noah-Norton/blob/main/src/SpaceGameNew/windows-amd64.zip)
 *[Mac App](https://github.com/9643339-sudo/Noah-Norton/blob/main/src/SpaceGameNew/macos-aarch64.zip)
 *[Linux Executable]()
 *[Source Code]()
