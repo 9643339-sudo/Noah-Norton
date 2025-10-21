@@ -9,6 +9,6 @@
 Desscription
 
 *[Windows EXE](https://github.com/9643339-sudo/Noah-Norton/blob/main/src/SpaceGameNew/windows-amd64.zip)
-*[Mac App](file:///Users/9643339/GameDev/Term1/SpaceGameNew_250923b/macos-aarch64%202/)
+*[Mac App]()
 *[Linux Executable]()
 *[Source Code]()
