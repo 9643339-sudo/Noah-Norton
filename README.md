@@ -6,7 +6,7 @@
 
 ![SpaceGameNew](https://github.com/9643339-sudo/Noah-Norton/blob/main/images/spacegame.png?raw=true)
 
-Desscription
+Description
 
 SpaceGame is a fast-paced 2D arcade-style shooter built in Processing, where you pilot a nimble spaceship through an endless field of falling rocks, stars, and power-ups. Your mission: survive the cosmic chaos, upgrade your ship, and rack up the highest score possible.
 
