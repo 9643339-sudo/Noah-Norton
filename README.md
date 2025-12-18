@@ -44,3 +44,18 @@ Some assets (e.g., sound files, images) must be placed in the data folder for fu
 *[Linux Executable]()
 *[Source Code](https://github.com/9643339-sudo/Noah-Norton/tree/main/src/SpaceGameNew)
 *[]()
+
+# Term 2 projects
+
+## The Pit of Despair
+ou were once a simple cube, drifting peacefully through a digital world… until the ground gave way. Now you’ve plummeted into The Pit of Despair, a molten labyrinth teeming with chaos. Lava pulses beneath your feet, shadows twist around jagged walls, and monstrous bosses rule each layer of this infernal prison. Your only goal: escape.
+### My contribution
+My role in making this game was designing the art and the making the final boss, "God of Despair." 
+#### Pictures
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/New%20Piskel.png)
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/god.png)
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/lavar.png)
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/reil.png)
+##### Link to TPOD repository
+*[TPOD Game](https://github.com/9643339-sudo/GroupRepo/tree/main)
+
