@@ -50,16 +50,16 @@ Some assets (e.g., sound files, images) must be placed in the data folder for fu
 ## The Pit of Despair
 You were once a simple cube, drifting peacefully through a digital world… until the ground gave way. Now you’ve plummeted into The Pit of Despair, a molten labyrinth teeming with chaos. Lava pulses beneath your feet, shadows twist around jagged walls, and monstrous bosses rule each layer of this infernal prison. Your only goal: escape.
 ### My contribution
-My role in making this game was designing the art and the making the final boss, "God of Despair." Link to the main tab is...
+####My role in making this game was designing the art and the making of the final boss, "God of Despair." Link to the main tab is...
 *[Main tab](https://github.com/9643339-sudo/GroupRepo/blob/main/src/ThePitOfDespair/GodOfDespair.pde)
-#### Pictures
+##### Pictures
 ![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/New%20Piskel.png)
 ![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/god.png)
 ![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/lavar.png)
 ![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/reil.png)
-##### Link to TPOD repository
+###### Link to TPOD repository
 *[TPOD Game](https://github.com/9643339-sudo/GroupRepo/tree/main)
 
-###### Certificate
+####### Certificate
 *[]()[Noah Norton_Game Development Fundamentals 1_12182025.pdf](https://github.com/user-attachments/files/24239106/Noah.Norton_Game.Development.Fundamentals.1_12182025.pdf)
 
