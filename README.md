@@ -1,8 +1,8 @@
 # noahs  game dev portfolio 2025
+## email: 9643339@graniteschools.org
+### Term 1 projects
 
-## Term 1 projects
-
-### RockBlaster Project
+#### RockBlaster Project
 
 ![SpaceGameNew](https://github.com/9643339-sudo/Noah-Norton/blob/main/images/spacegame.png?raw=true)
 
